@@ -1,7 +1,8 @@
-# LaharikaTutica\_IN226105002\_GEN\_AI\_MODULE\_TASKS
+# Task 1: NLP Preprocessing Engine
 
 ## Overview
-This repository contains NLP task-1 from the **Generative AI Module**, focusing on building a foundational NLP pipeline for text preprocessing and analysis.
+
+This task focuses on building a foundational Natural Language Processing (NLP) preprocessing pipeline as part of the Generative AI Module. The objective is to transform raw text data into a clean and structured format suitable for further analysis and modeling.
 
 ## Features
 * Text cleaning (URLs, numbers, punctuation, emojis)
