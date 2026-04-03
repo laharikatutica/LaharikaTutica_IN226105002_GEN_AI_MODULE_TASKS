@@ -1,3 +1,10 @@
+# Important Note:
+## If the GitHub preview shows **"Invalid Notebook"** or does not display outputs, please open the notebook using the **Google Colab link below**.
+
+All outputs, results, and visualizations (including the confusion matrix) can be viewed using the following Google Colab link.
+
+## Google Colab link: https://colab.research.google.com/drive/11aRvCgX_msp_ZnWUgTzq1aWqDnuGURJg#scrollTo=gJ2xI-whyvOE
+
 # Task 4: BERT Fine-Tuning for Text Classification
 ## Objective
 
@@ -17,7 +24,7 @@ This project involves building a text classification model using BERT on the IMD
 ## How to Run
 ### Install dependencies:
 - pip install transformers torch sklearn matplotlib seaborn
-- Open the notebook and run all cells.
+- Download the notebook and run all cells.
 
 ## Experiments
 - Frozen BERT (only classifier trained)
